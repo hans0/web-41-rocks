@@ -1,5 +1,3 @@
-console.log("it is working");
-
 require('dotenv').config()
 const path = require('path')
 const express = require('express')
